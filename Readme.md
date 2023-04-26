@@ -1,6 +1,6 @@
 # Installations
 
-> Make sure you have nodejs installed on your machine.
+> Make sure you have nodejs and npm installed on your machine.
 
 1. Clone the repo to your local machine.
 2. Run `npm install` to install all the dependencies.
